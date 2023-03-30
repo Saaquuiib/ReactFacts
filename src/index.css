@@ -1,0 +1,41 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  background-color: #21222a;
+  padding: 1% 1%;
+}
+nav img {
+  width: 6%;
+  margin-right: 2.5%;
+}
+nav h1 {
+  color: #00d8ff;
+  margin-right: auto;
+  scale: 120%;
+}
+
+nav h2 {
+  color: #deebf8;
+  margin-right: 1%;
+}
+
+body {
+  background-color: #282d35;
+}
+
+.container {
+  color: #deebf8;
+  margin: 2%;
+}
+
+.container h1 {
+  margin: 2.5% 0%;
+}
+
+.container li {
+  margin: 2% 0%;
+}
